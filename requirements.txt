@@ -1,0 +1,8 @@
+wheel
+
+numpy
+Pyarrow
+pandas
+matplotlib
+
+fiftyone
